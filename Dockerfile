@@ -1,4 +1,3 @@
-docker images
 docker ps
 docker ps -a
 docke inspect containerid
